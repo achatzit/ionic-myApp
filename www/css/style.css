@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+.deleted {
+  color: #9E9E9E;
+  text-decoration: line-through;
+}
+
+.active {
+  color: black;
+}
